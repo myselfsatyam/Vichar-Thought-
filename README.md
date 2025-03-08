@@ -1,3 +1,4 @@
 ## Vichar (Thought) Notes
 
-### Notes App Based on React.js
+### Notes App Based on React using typescript.
+
